@@ -1,5 +1,5 @@
 getgenv().setclipboard = newcclosure(function(informative)
 writefile("setclipboard.reader", informative)
 end)
-wait("Lunar Execution")
-print("skull emoji")
+wait(1.2)
+print("Lunar Execution")
